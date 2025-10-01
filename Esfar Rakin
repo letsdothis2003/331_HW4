@@ -1,12 +1,2 @@
-# Make sure you are in your repo folder
-cd your-repo-name
-
-# Delete the file
-git rm "Esfar Rakin"
-
-# Commit the deletion
-git commit -m "Delete Esfar Rakin file"
-
-# Push the change to GitHub
-git push origin main
+Delete Esfar Rakin file
 
