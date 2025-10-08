@@ -121,7 +121,7 @@ AverageOrderValue AS (
 SELECT AVG(OrderValue) AS GlobalAverage
 FROM OrderValues
 )
-SELECT  OV.OrderID, OV.OrderValue
+SELECT Top 10 OV.OrderID, OV.OrderValue
 FROM OrderValues AS OV
 CROSS JOIN AverageOrderValue AS AOV
 WHERE OV.OrderValue > AOV.GlobalAverage
