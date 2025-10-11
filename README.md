@@ -8,8 +8,8 @@ All video recordings have been provided below:
 
 The group split up into 2 pairs and 1 solo member:
 
-Pair 1: Yousuf Ahmed and Justin Zara
-
+Pair 1: Yousuf Ahmed(4:20-18:16) and Justin Zara(Timestamp 0:00-4:20)
+https://www.youtube.com/watch?v=1sQsjYNASUs
 Pair 2:Esfar Rakin(Timestamp 0:26-12:39) and Fahim Tanvir(Timestamp 12:46-25:55)(Both spoke together for intro and outro)
 https://www.youtube.com/watch?v=AsSLEuOmIcw
 
